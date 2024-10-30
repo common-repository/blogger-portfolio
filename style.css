@@ -1,0 +1,31 @@
+data {
+	border-collapse:collapse;
+}
+.data tr {
+	border-top:1px solid #282828;
+}
+.data td, .data th {
+	padding:4px 0pt 4px 6px;
+	vertical-align:top;
+}
+.data td {
+	background:#363636 none repeat scroll 0%;
+	border-left:4px solid #4C4C4C;
+	color:#A8B9CE;
+	width:78px;
+	padding: 7px 10px !important;
+}
+.data td, .data th {
+	padding: 7px 0pt 4px 6px;
+
+}
+.data th {
+	background:#424242 none repeat scroll 0% 50%;
+	color:#F2F1F1;
+	font-weight:normal;
+	text-align:left;
+}
+.data a {
+	color: #fff;
+	font-weight: bold;
+}
